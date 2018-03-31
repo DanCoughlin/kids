@@ -66,7 +66,7 @@ if __name__ == "__main__":
     if answer == word:
       print('Good Job!')
       del my_words[answer] #correct_answers.append(index)
-      print(my_words)
+      #print(my_words)
     else:
       print("Nope")
 
